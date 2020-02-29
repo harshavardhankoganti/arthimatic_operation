@@ -1,4 +1,4 @@
-#include<stdio.h>
+#include <stdio.h>
 int main(){
     int num1,num2,sum,addition;
      printf("enter the numbers");
@@ -8,5 +8,5 @@ int main(){
      printf("%d", adiition);
 
      return 0;
-     
+    
 }
